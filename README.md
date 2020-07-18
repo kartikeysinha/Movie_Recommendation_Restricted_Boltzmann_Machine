@@ -1,4 +1,4 @@
-# Movie_Recommendation
+# Movie Recommendation using Neural Nets
 
 Different Recommendation systems are built using Neural Nets.
 ## Restricted Boltzmann machine
